@@ -1,16 +1,23 @@
-## Hi there 👋
+# GlowingFederal: Are you perhaps mad?
 
-<!--
-**GlowingFederal/GlowingFederal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a legacy modding focused mod engineer with a specialty in server admin tools and client additions for 1.7.10.
 
-Here are some ideas to get you started:
+## Major Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Combatives
+Movement and camera overhaul/API for Minecraft Forge 1.7.10. 
+
+### HMG-Overdrive
+Modernized fork of GvCEX/HMG with improved weapon behavior, bugfixes, additional models, and performance improvements.
+
+### Xenofactions
+Faction and territory system designed for large-scale modded servers.
+
+### NEI Resources
+Resource information framework for NEI, including ores, mob drops, and structure information.
+
+### Clearlag
+Periodic item clearing with a simple forge mod.
+
+### Combat Utils
+A PVP focused mod which detects f3a spam abuse and combat logging. 
