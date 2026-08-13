@@ -21,3 +21,8 @@ Periodic item clearing with a simple forge mod.
 
 ### Combat Utils
 A PVP focused mod which detects f3a spam abuse and combat logging. 
+
+## Links
+
+- [CurseForge](https://www.curseforge.com/members/hiddenmerit/projects)
+- [Modrinth](https://modrinth.com/user/GlowingFederal)
