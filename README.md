@@ -3,7 +3,7 @@
 I'm a legacy modding focused mod engineer with a specialty in server admin tools and client additions for 1.7.10.
 
 <a href="https://www.youtube.com/watch?v=k4MoTWG1LuE">
-  <img src="Disclamer.png" alt="Disclaimer">
+  <img src="/Disclamer.png" alt="Disclaimer">
 </a>
 
 ## Major Projects
