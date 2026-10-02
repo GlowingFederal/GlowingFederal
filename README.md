@@ -8,6 +8,10 @@ I'm a legacy modding focused mod engineer with a specialty in server admin tools
 
 # Major Projects
 
+## Trolling Soyboys 
+
+https://www.youtube.com/watch?v=kskS9EQElaU
+
 ## Combatives
 
 Modern movement, combat, and camera overhaul for Minecraft Forge 1.7.10. Adds synchronized crawling and swimming, leaning, advanced first-person camera behavior, improved aiming integration, and compatibility systems for heavily modded clients and servers.
