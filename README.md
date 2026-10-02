@@ -2,15 +2,11 @@
 
 I'm a legacy modding focused mod engineer with a specialty in server admin tools and client additions for 1.7.10.
 
-<a href="https://www.youtube.com/watch?v=k4MoTWG1LuE">
+<a href="https://www.youtube.com/watch?v=kskS9EQElaU">
   <img src="./assets/Disclaimer.png" alt="Disclaimer">
 </a>
 
 # Major Projects
-
-## Trolling Soyboys 
-
-https://www.youtube.com/watch?v=kskS9EQElaU
 
 ## Combatives
 
