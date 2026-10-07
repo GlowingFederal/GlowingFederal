@@ -1,6 +1,15 @@
 # GlowingFederal: Are you perhaps mad?
 
-I'm a legacy modding focused mod engineer with a specialty in server admin tools and client additions for 1.7.10.
+I'm a Minecraft systems engineer working on gameplay, performance, and server infrastructure. I build and rework the systems behind movement, combat, rendering, multiplayer gamemodes, world editing, and server administration.
+
+Legacy Minecraft—especially 1.7.10—is a major part of my work. I revive and modernize older mods, rebuild their internals where needed, and integrate new features into heavily modded clients and servers. My work also extends across Forge and NeoForge, with several projects spanning Minecraft 1.6.4 through 1.21.11.
+
+My focus is on:
+
+- **Gameplay systems:** movement, combat, cameras, weapons, factions, and multiplayer gamemodes.
+- **Performance and diagnostics:** profiling, rendering, startup, world generation, and large world-editing operations.
+- **Server infrastructure:** administration tools, entity management, client integrity, and modpack verification.
+- **Compatibility and modernization:** preserving intended behavior while replacing outdated internals and adapting projects to each supported runtime.
 
 <a href="https://www.youtube.com/watch?v=kskS9EQElaU">
   <img src="./assets/Disclaimer.png" alt="Disclaimer">
@@ -26,7 +35,7 @@ Extends Not Enough Items with additional resource information, including ore gen
 
 ## AntiSkidAC
 
-Client integrity and anti-tamper framework for modded Minecraft servers. Supports file and directory verification, managed content policies, hash validation, and enforcement of server-required client resources.
+Client integrity and modpack verification framework for Forge and NeoForge servers. Verifies approved mod files and managed resources, enforces required and prohibited mod policies, and detects known unauthorized client modifications.
 
 ## WorldEdit Overdrive
 
@@ -42,9 +51,13 @@ PvP utility and moderation mod providing detection and handling for combat loggi
 
 ## ClearLag
 
-Lightweight Forge mod for periodically removing dropped items and reducing unnecessary entity buildup.
+Server administration mod for Forge and NeoForge with scheduled item and mob cleanup, configurable countdowns, live configuration, and mob spawn prevention.
+
+## Spawn N' Warps
+
+Server-side spawn placement and named warps across legacy and modern Minecraft, with persistent configuration and native Forge and NeoForge implementations.
 
 # Links
 
-- "CurseForge" (https://www.curseforge.com/members/hiddenmerit/projects)
-- "Modrinth" (https://modrinth.com/user/GlowingFederal)
+- [CurseForge](https://www.curseforge.com/members/hiddenmerit/projects)
+- [Modrinth](https://modrinth.com/user/GlowingFederal)
